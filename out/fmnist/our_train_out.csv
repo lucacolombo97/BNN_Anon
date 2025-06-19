@@ -1,0 +1,4 @@
+step,mean_train_acc,std_train_acc,mean_val_acc,std_val_acc,epochs,input_dim,algo_perc,seed,device,rescale,thetam,binarize_dataset,thermometer_bits,algo_layer,prob_reinforcement,bs,freeze_last,k,n_runs,grouping_factor,same_random_classifier,log,save_results,freeze_first,train_dim,layers,rm_pixel,project,prob_update,dataset,rob,epoch_interval_switch,val_dim
+50.0,88.29625,0.0722249091380546,86.65875,0.2993508601958602,50,,cp+r,42,0,False,0,True,0,one,0.5,100,False,1,10,105,False,False,True,False,,525_525,False,bnn-fmnist-localloss-train-out,1,fmnist,131,0,10000
+50.0,86.4466,0.1204659287931653,85.172,0.4152300567155508,50,,cp+r,42,0,False,0,True,0,one,0.5,100,False,1,10,135,False,False,True,False,,135_135,False,bnn-fmnist-localloss-train-out,1,fmnist,33,0,10000
+50.0,83.6844,0.3295048406321246,81.85500000000002,0.3570504166080763,50,,cp+r,42,0,False,0,True,0,one,0.5,100,False,1,10,35,False,False,True,False,,35_35,False,bnn-fmnist-localloss-train-out,1,fmnist,8,0,10000

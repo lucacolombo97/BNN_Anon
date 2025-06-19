@@ -1,0 +1,6 @@
+algo_layer,algo_perc,binarize_dataset,bs,dataset,device,epoch_interval_switch,epochs,freeze_first,freeze_last,grouping_factor,input_dim,k,layers,log,n_runs,prob_reinforcement,prob_update,project,rescale,rm_pixel,rob,same_random_classifier,save_results,seed,thermometer_bits,thetam,train_dim,val_dim,step,mean_train_acc,std_train_acc,mean_val_acc,std_val_acc
+one,cp+r,False,100,prototypes,0,0,50,False,True,105,,1,525_525,False,10,0.5,1,bnn-prototypes-localloss,False,False,131,False,True,42,0,0,,2000,50.0,99.802,0.0321869538788595,94.835,0.5554502678008195
+one,cp+r,False,100,prototypes,0,0,50,False,True,35,,1,35_35,False,10,0.5,1,bnn-prototypes-localloss,False,False,8,False,True,42,0,0,,2000,50.0,89.266,0.8326127551268931,79.10499999999999,1.2693403798824014
+one,cp+r,False,100,prototypes,0,0,50,False,True,45,,1,135_135,False,10,0.5,1,bnn-prototypes-localloss,False,False,33,False,True,42,0,0,,2000,50.0,99.703,0.0616522505671915,92.245,0.4491380634058974
+one,cp+r,False,100,prototypes,0,0,50,False,True,75,,1,75_75,False,10,0.5,1,bnn-prototypes-localloss,False,False,18,False,True,42,0,0,,2000,50.0,96.82,0.3022912502868738,87.64500000000001,0.555630272753383
+one,cp+r,False,100,prototypes,0,0,50,False,True,85,,1,255_255,False,10,0.5,1,bnn-prototypes-localloss,False,False,63,False,True,42,0,0,,2000,50.0,99.73,0.0309838667696609,93.6,0.6741661516273287
